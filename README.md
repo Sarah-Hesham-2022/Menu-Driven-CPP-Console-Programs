@@ -32,3 +32,6 @@ c. Your program should handle the inputs start and end of range as following:
 - If range start number is 1 and end range number is 5 the range will be : 1,2,3,4,5
 
 - If range start number is 5 and end range number is 1 the range will be : 1,2,3,4,5
+
+![image](https://user-images.githubusercontent.com/112272836/214967739-b5daac63-3d20-423f-bdb9-9c00406eb325.png)
+
