@@ -1,6 +1,8 @@
 # Menu-Driven-CPP-Console-Programs
 -Simple basic problem solving with C++ on menu driven programs using structural programming.
 
+-Problem One:
+
 -Write a C++ program that takes 2 numbers forming a range then accordingly
 
 -Your program should contain and display a selection menu as follows:
@@ -35,3 +37,28 @@ c. Your program should handle the inputs start and end of range as following:
 
 ![image](https://user-images.githubusercontent.com/112272836/214967739-b5daac63-3d20-423f-bdb9-9c00406eb325.png)
 
+-Problem two:
+
+-Having a 1D array of student names (at least 5), 1D of course names (at least 3), and 2D array of student’s grades in each course. Write the following functions, the menu for choosing one of the following should be looped.
+
+1- Calculate and display the average GPA for each student along with the student’s name.
+
+-Use the grade scheme (90+ grade = 4.0 GPA), (80+ = 3.5), (70+ = 3), (60+ = 2.5), (50+ = 2), (50- = 0).
+
+2- Display the student with the highest grade in each course.
+
+3- Display the student with the lowest grade in each course.
+
+4- Display the average grade in each course. 
+
+5- Display students and their grades in all courses (Each line should include one student and all his grades, display it as a table). 
+
+6- Display Course names. 
+
+7- Display Student names. 
+
+8- Modify a student’s grade in a course. 
+
+9- Modify a course name. 
+
+10- Sort the students (and their grades) alphabetically (note that you have to swap grade positions when swapping student positions). 
